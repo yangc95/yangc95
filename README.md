@@ -9,7 +9,10 @@ I'm active on Codecademy [Docs](https://github.com/Codecademy/docs). I also enjo
 ## Languages and technologies
 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
+
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
+
+<!-- ![Bash](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 
 
 <!--
@@ -25,4 +28,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Languages and technologies label template
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+Github stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 -->
