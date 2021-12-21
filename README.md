@@ -1,6 +1,8 @@
 # Hi there ✨ 
 
-My name is Christine and I'm a Software Engineer currently based in Philadelphia and originally from New York. I am a Healthcare turned Tech professional! It's been a bumpy road until I attended [App Academy's](https://www.appacademy.io/) immersive Software Engineering bootcamp where developed my fundamentals of data structures and algorithms. [Altus Empire](https://github.com/yangc95/altus-empire?organization=yangc95&organization=yangc95) is my first collaborative full stack project and [Leo](https://github.com/yangc95/Leo) is a work-in-progess pixel game.
+My name is Christine and I'm a Software Engineer currently based in Philadelphia and originally from New York. I am a Healthcare turned Tech professional! I attended [App Academy's](https://www.appacademy.io/) immersive Software Engineering bootcamp where I learned the fundamentals of data structures and algorithms. 
+
+[Altus Empire](https://github.com/yangc95/altus-empire?organization=yangc95&organization=yangc95) is my first collaborative full stack project and [Leo](https://github.com/yangc95/Leo) is a work-in-progess pixel game.
 
 Currently, I am with [Codecademy](https://www.codecademy.com/), working on some fulfilling projects that involve reviewing and maintaining top quality content for learners of all backgrounds ⁠— especially new learners who may not know where to begin!
 
