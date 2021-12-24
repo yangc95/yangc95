@@ -38,4 +38,6 @@ Languages and technologies label template
 Github stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+Software Engineer -- JavaScript | React | Redux | Ruby | HTML | CSS | SASS | MongoDB | PostgreSQL | Node | Rails | Express | Git
 -->
