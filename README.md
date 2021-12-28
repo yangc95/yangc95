@@ -10,6 +10,11 @@ I'm active on Codecademy [Docs](https://github.com/Codecademy/docs). I also enjo
 
 ## Languages and technologies
 
+
+![HTML](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
+
+![CSS](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
+
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
 
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
@@ -39,5 +44,5 @@ Github stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
-Software Engineer -- JavaScript | React | Redux | Ruby | HTML | CSS | SASS | MongoDB | PostgreSQL | Node | Rails | Express | Git
+Software Engineer -- React | Redux | Ruby | SASS | MongoDB | PostgreSQL | Node | Rails | Express | Git
 -->
