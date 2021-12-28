@@ -12,9 +12,7 @@ I'm active on Codecademy [Docs](https://github.com/Codecademy/docs). I also enjo
 
 
 ![HTML](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
-
 ![CSS](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
-
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
 
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
