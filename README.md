@@ -2,14 +2,13 @@
 
 My name is Christine and I'm a Software Engineer currently based in Philadelphia and originally from New York. I am a Healthcare turned Tech professional! I attended [App Academy's](https://www.appacademy.io/) immersive Software Engineering bootcamp where I learned the fundamentals of data structures and algorithms. 
 
-[Altus Empire](https://github.com/yangc95/altus-empire?organization=yangc95&organization=yangc95) is my first collaborative full stack project and [Leo](https://github.com/yangc95/Leo) is a work-in-progess pixel game.
+[Altus Empire](https://github.com/yangc95/altus-empire?organization=yangc95&organization=yangc95) is my first collaborative full stack project.
 
 Currently, I am with [Codecademy](https://www.codecademy.com/), working on some fulfilling projects that involve reviewing and maintaining top quality content for learners of all backgrounds ⁠— especially new learners who may not know where to begin!
 
-I'm active on Codecademy [Docs](https://github.com/Codecademy/docs). I also enjoy reading up on programming languages, technologies/stacks, and documentation ⁠— you name it!
+I'm active on Codecademy [Docs](https://github.com/Codecademy/docs). I also enjoy reading up on programming languages, technologies/stacks, and documentation!
 
 ## Languages and technologies
-
 
 ![HTML](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
 ![CSS](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
@@ -22,6 +21,8 @@ I'm active on Codecademy [Docs](https://github.com/Codecademy/docs). I also enjo
 
 <!--
 **yangc95/yangc95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[Leo](https://github.com/yangc95/Leo) is a work-in-progess pixel game.
 
 Here are some ideas to get you started:
 
