@@ -13,7 +13,7 @@ I'm active on Codecademy [Docs](https://github.com/Codecademy/docs). I also enjo
 ![HTML](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
 ![CSS](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
-
+![Ruby](https://img.shields.io/badge/Language-Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=F3F1F5&color=F0D9FF)
 
 <!-- ![Bash](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
