@@ -4,7 +4,9 @@ My name is Christine and I'm a Software Engineer currently based in Philadelphia
 
 [Altus Empire](https://github.com/yangc95/altus-empire?organization=yangc95&organization=yangc95) is my first collaborative full stack project.
 
-Currently, I am with [Codecademy](https://www.codecademy.com/), working on some fulfilling projects that involve reviewing and maintaining top quality content for learners of all backgrounds ⁠— especially new learners who may not know where to begin!
+I am a FT Support Engineer with DailyPay.
+
+I am also with [Codecademy](https://www.codecademy.com/), working on some fulfilling projects that involve reviewing and maintaining top quality content for learners of all backgrounds ⁠— especially new learners who may not know where to begin!
 
 I'm active on Codecademy [Docs](https://github.com/Codecademy/docs). I also enjoy reading up on programming languages, technologies/stacks, and documentation!
 
