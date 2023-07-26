@@ -1,14 +1,14 @@
 # Hi there ✨ 
 
-My name is Christine and I'm a developer currently based in Philadelphia and originally from New York. I am a Healthcare turned Tech professional! I attended [App Academy's](https://www.appacademy.io/) immersive Software Engineering bootcamp where I learned the fundamentals of data structures and algorithms. 
+My name is Christine and I'm a developer originally from New York. I am a Healthcare turned Tech professional! I attended [App Academy's](https://www.appacademy.io/) immersive Software Engineering bootcamp where I learned the fundamentals of data structures and algorithms. 
 
 [Altus Empire](https://github.com/yangc95/altus-empire?organization=yangc95&organization=yangc95) is my first collaborative full stack project.
 
-I am also with [Codecademy](https://www.codecademy.com/), working on some fulfilling projects that involve reviewing and maintaining top quality content for learners of all backgrounds ⁠— especially new learners who may not know where to begin!
+I am also with [Codecademy](https://www.codecademy.com/), working on some fulfilling projects that involve reviewing and maintaining quality content for learners of all backgrounds ⁠— especially new learners who may not know where to begin!
 
-I'm active on Codecademy [Docs](https://github.com/Codecademy/docs). I also enjoy reading up on programming languages, technologies/stacks, and documentation!
+I enjoy reading up on programming languages, technologies/stacks, and documentation!
 
-I was previously a FT Support Engineer with DailyPay.
+Previously a FT Support Engineer with DailyPay.
 
 ## Languages and technologies
 
